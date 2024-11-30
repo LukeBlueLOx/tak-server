@@ -21,7 +21,7 @@
 #   exit 0
 # fi
 
-username='martiuser'
+username='lukebluelox'
 password=""
 # try to get password from /opt/tak/CoreConfig.xml
 if [ -f "/opt/tak/CoreConfig.xml" ]; then
